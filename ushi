@@ -1,2 +1,3 @@
 local lib = require(game.ReplicatedStorage:WaitForChild('Framework'):WaitForChild('Library'))
 game.Players.LocalPlayer.PlayerGui.Message.Enabled = true
+lib.Message.New("\226\156\133 \240\159\142\137 Thanks for using Ultimate Script Hub v11.4🔥!")
